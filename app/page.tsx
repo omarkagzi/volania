@@ -1,5 +1,5 @@
 import { HeroSection } from "@/components/hero-section"
-import { SignalsSection } from "@/components/signals-section"
+// import { SignalsSection } from "@/components/signals-section"
 import { WorkSection } from "@/components/work-section"
 import { PrinciplesSection } from "@/components/principles-section"
 import { ColophonSection } from "@/components/colophon-section"
@@ -13,7 +13,7 @@ export default function Page() {
 
       <div className="relative z-10">
         <HeroSection />
-        <SignalsSection />
+        {/* <SignalsSection /> */}
         <WorkSection />
         <PrinciplesSection />
         <ColophonSection />

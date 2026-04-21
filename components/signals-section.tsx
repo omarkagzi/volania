@@ -1,3 +1,4 @@
+/*
 "use client"
 
 import { useRef, useState, useEffect } from "react"
@@ -206,3 +207,4 @@ function SignalCard({
     </article>
   )
 }
+*/
